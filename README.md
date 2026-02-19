@@ -135,21 +135,11 @@ Longitude: 36.8219462
 ```
 Area not found: RandomPlaceThatDoesNotExist
 ```
-## AI Prompt Journal
 
-**Prompt 1**
-Prompt: “Explain how to make an HTTP request in Go”
+## AI Prompt Journal (Structured Go Learning Journey)
 
-**How AI helped:** Provided the basic structure using net/http and explained response handling.
-
-**Prompt 2**
-Prompt: “Show me how to parse JSON in Go”
-
-**How AI helped:** Helped define a struct and decode JSON response.
-
-**Prompt 3**
-Prompt: “How to handle no results returned by an API in Go”
-**How AI helped:** Explained checking array length and returning nil if no results are found.
+This journal documents the step-by-step learning process of building the Location-to-Coordinates CLI using Go and the [OpenStreetMap Nominatim API].
+It shows how AI was used as a tutor to move from basic concepts to a working real-world tool.
 
 ## Common Issues & Fixes
 **1. API request fails**
