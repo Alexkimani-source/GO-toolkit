@@ -172,7 +172,7 @@ Couldn’t run ```go run main.go``` in the terminal.
 
 **Directory structure when running the project:**
 ```
-C:\Users\Alex\Documents\location-cli\
+C:\Users\<username>\Documents\location-cli\
 │
 ├─ main.go
 ├─ README.md
