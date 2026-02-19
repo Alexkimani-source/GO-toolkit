@@ -138,7 +138,7 @@ Area not found: RandomPlaceThatDoesNotExist
 
 ## AI Prompt Journal (Structured Go Learning Journey)
 
-This journal documents the step-by-step learning process of building the Location-to-Coordinates CLI using Go and the [OpenStreetMap Nominatim API].
+This journal documents the step-by-step learning process of building the Location-to-Coordinates CLI using Go and the [OpenStreetMap Nominatim API](https://www.openstreetmap.org/#map=6/0.17/37.90).
 It shows how AI was used as a tutor to move from basic concepts to a working real-world tool.
 
 ## Common Issues & Fixes
