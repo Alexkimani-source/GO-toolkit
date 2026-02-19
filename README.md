@@ -12,7 +12,8 @@ To build a command-line application that fetches latitude and longitude for a gi
 
 ## Quick Summary of the Technology
 **What is Go?**
-Go is an open-source programming language developed by Google for building fast and reliable software.'
+Go is an open-source programming language developed by Google for building fast and reliable software.
+
 **Where it’s used:**
 1. Backend systems
 
@@ -37,3 +38,6 @@ Internet connection (for API request)
 1. Install Go
 
 Download and install Go from the official website
+
+2. Verify Installation
+   go version
