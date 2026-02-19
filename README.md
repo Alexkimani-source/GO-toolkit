@@ -44,8 +44,8 @@ Download and install Go from the official website
    ``` go version```
 
 3. Create Project Folder
-   ```mkdir location-cli
-   cd location-cli```
+   ```mkdir location-cli ```
+   ```cd location-cli```
    
 4. Create File
   ``` main.go```
