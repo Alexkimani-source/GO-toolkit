@@ -267,7 +267,6 @@ C:\Users\<username>\Documents\location-cli\
 **AI Agents Utilised**
 Claude , 
 ChatGPT, 
-Gemini CLI
 
 **References**
 
