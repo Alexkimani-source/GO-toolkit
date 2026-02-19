@@ -131,3 +131,55 @@ Location: Nairobi, Nairobi County, Kenya
 Latitude: -1.2920659
 Longitude: 36.8219462
 ```
+**Invalid location:**
+```
+Area not found: RandomPlaceThatDoesNotExist
+```
+## AI Prompt Journal
+
+**Prompt 1**
+Prompt: “Explain how to make an HTTP request in Go”
+**How AI helped:** Provided the basic structure using net/http and explained response handling.
+
+**Prompt 2**
+Prompt: “Show me how to parse JSON in Go”
+How AI helped: Helped define a struct and decode JSON response.
+
+**Prompt 3**
+Prompt: “How to handle no results returned by an API in Go”
+**How AI helped:** Explained checking array length and returning nil if no results are found.
+
+## Common Issues & Fixes
+**1. API request fails**
+   The program couldn’t fetch data from the API (e.g., internet down, API server unreachable).
+   **Fix:**
+   i. Check that the internet connection is working.
+
+   ii. Ensure the API URL is correct.
+
+   iii. Implement error handling to prevent the program from crashing if the API does not respond.
+
+**2. JSON fields empty**
+Struct fields are not exported.
+**Fix**: Capitalize struct fields.
+
+**3. go command not recognized**
+Couldn’t run ```go run main.go``` in the terminal.
+
+**Fix**: Added Go bin directory (```C:\Program Files\Go\bin```) to the system PATH and reopened terminal.
+
+**Directory structure when running the project:**
+```
+C:\Users\Alex\Documents\location-cli\
+│
+├─ main.go
+├─ README.md
+└─ go.mod
+```
+**References**
+
+Go official documentation
+
+OpenStreetMap Nominatim API
+
+JSON parsing tutorial
