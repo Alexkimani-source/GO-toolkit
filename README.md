@@ -152,6 +152,7 @@ Prompt: “How to handle no results returned by an API in Go”
 ## Common Issues & Fixes
 **1. API request fails**
    The program couldn’t fetch data from the API (e.g., internet down, API server unreachable).
+   
 **Fix:**
    i. Check that the internet connection is working.
 
