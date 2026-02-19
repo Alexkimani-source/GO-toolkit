@@ -139,11 +139,13 @@ Area not found: RandomPlaceThatDoesNotExist
 
 **Prompt 1**
 Prompt: “Explain how to make an HTTP request in Go”
+
 **How AI helped:** Provided the basic structure using net/http and explained response handling.
 
 **Prompt 2**
 Prompt: “Show me how to parse JSON in Go”
-How AI helped: Helped define a struct and decode JSON response.
+
+**How AI helped:** Helped define a struct and decode JSON response.
 
 **Prompt 3**
 Prompt: “How to handle no results returned by an API in Go”
